@@ -13,6 +13,8 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   late VideoPlayerController controller;
   //late VideoPlayerController controller;
+  //late VideoPlayerController controller;
+  //late VideoPlayerController controller;
 
   @override
   void initState() {

@@ -8,6 +8,9 @@ Widget buildPopEnglish(BuildContext context) {
   var v = 0;
   var f = 0;
   var d = 0;
+  var dd = 0;
+  var cc = 0;
+  var ccc = 0;
   return PopupMenuButton(
       icon: const Icon(Icons.more_vert),
       elevation: 20,

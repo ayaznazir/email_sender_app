@@ -1,4 +1,4 @@
-package com.example.email_sender
+package com.email.app.sender
 
 import io.flutter.embedding.android.FlutterActivity
 
