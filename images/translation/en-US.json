@@ -1,0 +1,29 @@
+{
+  "homescreen": "HomeScreen",
+  "call": "Call",
+  "whatsapp" : "Whatsapp",
+  "email" : "Email",
+  "unitedarab" : "United Arab Emirates",
+  "emailscreen" : "Email Screen",
+  "name": "Name",
+  "phone" : "Phone Number",
+  "city" : "City",
+  "address" : "Address",
+  "profession" : "Required Profession",
+  "datevisit" : "Required date to visit",
+  "timevisit" : "Required time to visit",
+  "pleasefill" : "Please fill all field",
+  "submit" : "Submit",
+  "enteremail" : "Enter Email",
+  "enteryouremail" : "Enter Your Email",
+  "emailsend" : "Email send successfully",
+  "about" : "About us",
+  "aboutdes" :  "Servano is a team specialized in maintenance in various disciplines, electricity, plumbing, refrigeration and air conditioning, paints, maintenance of household appliances, pest control, maintenance of gardens and landscaping and other disciplines.  The team is also characterized by accuracy in work and speed in completing tasks",
+  "nahan" : "Who are we",
+  "whatsapps" : "Whatsapp",
+  "request" : "Service Request",
+  "servano" : "Servano",
+  "required" : "Required Service"
+
+
+}
