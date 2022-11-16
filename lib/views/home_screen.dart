@@ -109,7 +109,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
 
               //4th Image of Slider
-              Container(
+              /*    Container(
                 width: screenSize.width,
                 height: screenSize.height * 0.3,
                 decoration: const BoxDecoration(
@@ -119,8 +119,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           "images/elect.png",
                         ),
                         fit: BoxFit.cover)),
-              ),
-
+              ),*/
               //5th Image of Slider
               Container(
                 width: screenSize.width,

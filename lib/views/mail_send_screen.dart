@@ -47,7 +47,7 @@ class _MailSendScreenState extends State<MailSendScreen> {
             "subject": professionController.text,
             "name": nameController.text,
             "message":
-                "Name : ${nameController.text} , Name : ${mailController.text} ,  Phone number : ${phoneController.text} , City : ${cityController.text} , Address : ${addressController.text} , Required Profession : ${requiredController.text} , Required Service : ${requiredController.text} , Required date to visit : ${dateVisitController.text} , Required time to visit : ${timeVisitController.text} , Latitude longitude : $name",
+                "Name : ${nameController.text} , Email : ${mailController.text} ,  Phone number : ${phoneController.text} , City : ${cityController.text} , Address : ${addressController.text} , Required Profession : ${professionController.text} , Required Service : ${requiredController.text} , Required date to visit : ${dateVisitController.text} , Required time to visit : ${timeVisitController.text} , Latitude longitude : $name",
             "user_email": mailController.text,
           }
         }));
