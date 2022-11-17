@@ -35,8 +35,8 @@ dependencies:
   fluttertoast:
   geolocator:
   easy_localization: ^3.0.1
-  whatsapp_share: ^1.1.1
-  carousel_slider: ^2.3.1
+
+  carousel_slider: ^4.1.1
   video_player: ^2.4.7
   url_launcher: ^6.1.6
   flutter_native_splash: ^2.2.14
