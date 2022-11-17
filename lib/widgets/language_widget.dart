@@ -4,6 +4,7 @@ import 'package:email_sender/views/home_screen.dart';
 import 'package:flutter/material.dart';
 
 Widget buildPopEnglish(BuildContext context) {
+  var a = 0;
   return PopupMenuButton(
       icon: const Icon(Icons.more_vert),
       elevation: 20,
