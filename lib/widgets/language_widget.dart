@@ -5,6 +5,9 @@ import 'package:flutter/material.dart';
 
 Widget buildPopEnglish(BuildContext context) {
   var a = 0;
+  var v = 0;
+  var f = 0;
+  var d = 0;
   return PopupMenuButton(
       icon: const Icon(Icons.more_vert),
       elevation: 20,
